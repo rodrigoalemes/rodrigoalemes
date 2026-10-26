@@ -65,7 +65,7 @@ Hoje direciono minha carreira para **Dados, Inteligência Artificial e Power Pla
 - 🎓 Tecnólogo em **Gestão da Tecnologia da Informação** — UniCesumar *(2022 – 2024)*
 - 🎓 Técnico em Informática (hardware e redes) — People Computação *(2011 – 2013)*
 - 📜 Formação BI — Módulo Avançado (Etek) · Excel Pro (Comunidade Data Driven) · Fundamentos de IA · Introdução à análise de dados (Microsoft Learn) · Introdução à IA e Prompts com a Microsoft (DIO)
-- 🧪 No GitHub: [Contribuindo em um projeto open source (DIO)](https://github.com/lemes-git/dio-lab-open-source)
+- 🧪 No GitHub: [Contribuindo em um projeto open source (DIO)](https://github.com/rodrigoalemes/dio-lab-open-source)
 
 ## Contato
 
