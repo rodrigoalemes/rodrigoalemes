@@ -45,11 +45,12 @@ Hoje direciono minha carreira para **Dados, Inteligência Artificial e Power Pla
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| **AD Manager** | Provisionamento em massa de usuários e contas de serviço no Active Directory a partir de CSV, com validações automáticas e modo de simulação | PowerShell · Active Directory |
-| **Consulta de equipamentos** | Ferramenta de consulta rápida ao histórico de equipamentos corporativos (bases Lenovo/Dell) por colaborador, apoiando o ciclo de vida dos ativos | Excel · Automação |
-| **Automação inteligente para Compras** | Solução com IA para análise e tratamento de solicitações de compra: processamento de documentos, consultas e relatórios | IA generativa · Automação |
-| **Dashboard de indicadores operacionais** | Painel interativo com consolidação e tratamento de bases para indicadores e apoio à decisão | HTML · CSS · JavaScript · IA |
-| **Comunicações automatizadas** | Fluxo que lê uma base em Excel e envia e-mails personalizados com anexos em larga escala | Power Automate · Excel |
+| [**AD Manager**](https://github.com/rodrigoalemes/ad-manager-powershell) | Provisionamento em massa de usuários e contas de serviço no Active Directory a partir de CSV, com validações automáticas e modo de simulação | PowerShell · Active Directory |
+| [**Consulta de Ativos de TI**](https://github.com/rodrigoalemes/consulta-ativos-ti) | Consulta rápida ao histórico de equipamentos corporativos (bases Lenovo/Dell) por colaborador, apoiando o ciclo de vida dos ativos | Bases Lenovo/Dell |
+| [**Automação Inteligente para Compras**](https://github.com/rodrigoalemes/automacao-inteligente-compras) | Solução com IA para análise e tratamento de solicitações de compra: processamento de documentos, consultas e relatórios | IA generativa · Automação |
+| [**Dashboard de Indicadores**](https://github.com/rodrigoalemes/dashboard-indicadores-operacionais) | Painel interativo com consolidação e tratamento de bases para indicadores e apoio à decisão | HTML · CSS · JavaScript · IA |
+| [**Comunicações Automatizadas**](https://github.com/rodrigoalemes/power-automate-comunicacoes) | Fluxo que lê uma base em Excel e envia e-mails personalizados com anexos em larga escala | Power Automate · Excel |
+| [**Certificados SSL/TLS**](https://github.com/rodrigoalemes/ICPEdu-SSL) | Guia prático: gerar CSR com OpenSSL, instalar (Apache, Nginx, IIS) e validar | OpenSSL · Apache · Nginx · IIS |
 
 ## Trajetória
 
